@@ -1,6 +1,6 @@
 body {
-    background: url(/img/bg.jpg);
-    background-repeat: no-repeat;
+    background:fixed;
+    background-color: antiquewhite;
     background-size: cover;
 }
 
